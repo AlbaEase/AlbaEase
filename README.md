@@ -1,3 +1,5 @@
+<img src="https://github.com/AlbaEase/AlbaEase/blob/main/GOLDEN%20HOUR.png" width="100%;" alt=""/>
+
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/194479042?s=200&v=4" width="100px;" alt=""/>
   
@@ -84,7 +86,7 @@
   
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
 <br>
 <br>
 <br>
