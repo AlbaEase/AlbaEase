@@ -20,7 +20,8 @@
 <br>
 ***** 
 
-<img src="https://github.com/AlbaEase/AlbaEase/blob/main/4%ED%8E%98%EC%9D%B4%EC%A7%80.png"/>
+<img src="https://github.com/AlbaEase/AlbaEase/blob/main/4%ED%8E%98%EC%9D%B4%EC%A7%80.png" />
+
 ### 📢 실시간 알림 및 승인 – 승인 결과 즉시 확인
 근무 변경 요청 여부를 사장님이 승인하면 자동으로 일정에 반영됩니다.
 <br>
@@ -29,6 +30,7 @@
 <img src="https://github.com/AlbaEase/AlbaEase/blob/main/5%ED%8E%98%EC%9D%B4%EC%A7%80-1.png" width="50%;"/><img src="https://github.com/AlbaEase/AlbaEase/blob/main/5%ED%8E%98%EC%9D%B4%EC%A7%80-2.png" width="50%;"/>
 ### ✅ 급여 정보 - 사장님과 알바생이 동일한 급여 정보 확인
 사장님은 편하게 급여를 계산하고, 알바생은 편하게 급여를 확인할 수 있습니다.
+
 <br>
 <br>
 <br>
@@ -88,5 +90,5 @@
 <br>
 
 # 📖개발 과정 기록
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme={insert_theme})](https://seobbang.tistory.com/category/SucceSS%20Project)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme={insert_theme})](https://seobbang.tistory.com/category/SucceSS%20Project) 
 
