@@ -85,5 +85,5 @@
 <br>
 
 # 📖개발 과정 기록
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme={insert_theme})]([https://github.com/loosie/github-readme-tistory-card](https://seobbang.tistory.com/category/SucceSS%20Project))
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme={insert_theme})](https://seobbang.tistory.com/category/SucceSS%20Project)
 
