@@ -40,6 +40,7 @@
 # 🧑‍💻만든 사람들
 <table>
   <tbody>
+    <caption>GDGoC SucceSS Project_Team 10</caption>
     <tr>
       <td align="center"><a href="https://github.com/iamseoyoung"><img src="https://avatars.githubusercontent.com/u/156871045?v=4" width="100px;" alt=""/><br /><sub><b> 이서영 </b></sub></a><br />PM</td>
       <td align="center"><a href="https://github.com/ownue"><img src="https://avatars.githubusercontent.com/u/175709883?v=4" width="100px;" alt=""/><br /><sub><b> 이은우 </b></sub></a><br />FE</td>
